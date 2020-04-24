@@ -6,11 +6,11 @@ This code is open source, you can modify it in your own way. If you want to, con
 Presentation:
 
 This template is here to help you build a bot that will make Giveaways.
-This code is complete and has several functions such as:
+This code is complete and has several functions such as :
 
 - The bot saves the giveaways so they won't be deleted if the bot needs to restart.
 - The bot can change language.
-- The bot can be configured (lounge logs, special role to manage launch a giveaway if the member does not have permission to manage messages ...)
+- The bot can be configured (lounge logs, special role to manage launch a giveaway if the member does not have permission to manage messages...)
 
 And lots of other features to discover !
 
