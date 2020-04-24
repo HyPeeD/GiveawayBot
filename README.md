@@ -3,6 +3,17 @@ A complete code for a Discord bot to do contests. Easy to modify and free ! Also
 
 This code is open source, you can modify it in your own way. If you want to, consider leaving the link to this Github project in a place on the bot to show that you respect the work of others.
 
+Presentation:
+
+This template is here to help you build a bot that will make Giveaways.
+This code is complete and has several functions such as:
+
+- The bot saves the giveaways so they won't be deleted if the bot needs to restart.
+- The bot can change language.
+- The bot can be configured (lounge logs, special role to manage launch a giveaway if the member does not have permission to manage messages ...)
+
+And lots of other features to discover !
+
 Configuration :
 
 First of all you will need Node, you can download it by just clicking [here](https://nodejs.org/en/download/). The most recent version is recommended.
@@ -101,5 +112,9 @@ With Node you just have to redo (node index.js).
 
 If in the console you see `Ready on [...] servers, for a total of [...] users.` The bot is ready !
 If you see an error in the console, don't hesitate to fix it or to let me know.
+
+Storage part :
+
+Remember not to delete "json.sqlite" as it contains all current / cancelled / modified giveaways.
 
 Thank you for using this code !
