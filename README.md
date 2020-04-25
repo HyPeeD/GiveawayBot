@@ -14,7 +14,7 @@ This code is complete and has several functions such as :
 
 And lots of other features to discover !
 
-⚙️ - Configuration
+## ⚙️ - Configuration
 
 First of all you will need Node, you can download it by just clicking [here](https://nodejs.org/en/download/). The most recent version is recommended.
 
@@ -90,7 +90,7 @@ However, I remind you of all the functions below :
 - `support`, the link of your Discord server.
 - `dperms`, the permissions that the bot asks on we want to add it on a Discord server (8 = moderator).
 
-🚀 - Start the bot
+## 🚀 - Start the bot
 
 ```
 #With Node
@@ -113,7 +113,7 @@ With Node you just have to redo (node index.js).
 If in the console you see `Ready on [...] servers, for a total of [...] users.` The bot is ready !
 If you see an error in the console, don't hesitate to fix it or to let me know.
 
-🔒 - Storage part
+## 🔒 - Storage part
 
 Remember not to delete "json.sqlite" as it contains all current / cancelled / modified giveaways.
 
