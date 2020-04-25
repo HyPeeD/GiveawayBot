@@ -129,6 +129,8 @@ Thank you for using this code !
 
 # Next update
 
+- 1.0.2
+
 ```
 - Correction of the possibility to set 0 for the number of winners
 ```
