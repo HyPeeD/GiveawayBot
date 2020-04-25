@@ -81,7 +81,7 @@ module.exports = {
 
     lang: {
       perms: ":warning: You lack the `manage messages` permission to use this command.",
-      msg: ":warning: Please indicate a language to be defined `fr` french, `en` english, `es` spanish et `de` german.",
+      msg: ":warning: Please indicate a language to be defined `fr` french and `en` english.",
       err: ":warning: The chosen language is already the one active on this server. Try another one to see ?"
     },
 
