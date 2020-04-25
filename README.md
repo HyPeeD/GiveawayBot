@@ -85,7 +85,7 @@ However, I remind you of all the functions below :
 - `activity`, bot status.
 - `addcolor`, the color of the event add (in English).
 - `remcolor`, the color of the event remove (in English).
-- `reaction`, reaction to the giveaways if you in the console you see 'unknown emoji' that's what this emoji is not recognized by Discord.
+- `reaction`, reaction to the giveaways if you in the console you see "unknown emoji" that's what this emoji is not recognized by Discord.
 - `grole`, if the member doesn't have permission to handle messages he can still use the giveaways commands if he has the role configured right here.
 - `support`, the link of your Discord server.
 - `dperms`, the permissions that the bot asks on we want to add it on a Discord server (8 = moderator).
