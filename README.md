@@ -118,3 +118,17 @@ If you see an error in the console, don't hesitate to fix it or to let me know.
 Remember not to delete "json.sqlite" as it contains all current / cancelled / modified giveaways.
 
 Thank you for using this code !
+
+# Latest updates
+
+- 1.0.1
+
+```
+- Minor bug fixes
+```
+
+# Next update
+
+```
+- Correction of the possibility to set 0 for the number of winners
+```
