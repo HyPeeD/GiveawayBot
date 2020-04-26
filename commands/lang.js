@@ -20,7 +20,7 @@ exports.run = async (client, message, args) => {
             return message.channel.send(lang.lang.perms)
         }
 
-        if (language === "fr") return message.channel.send(lang.lang.perms)
+        if (language === "fr") return message.channel.send(lang.lang.err)
 
         db.set(`lang_${message.guild.id}`, "fr")
 
