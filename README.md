@@ -97,7 +97,7 @@ However, I remind you of all the functions below :
 node index.js
 
 #With pm2
-pm2 restart index.js
+pm2 start index.js
 ```
 
 Note for pm2 : 
